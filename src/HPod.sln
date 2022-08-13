@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPod.Encode", "Encode\HPod.Encode.csproj", "{ADAC680D-2869-402A-B168-C70E016631B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HPod.Decode", "Decode\HPod.Decode.csproj", "{0F794B30-DA9D-44D4-A8A0-B3A2C68B9B6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{ADAC680D-2869-402A-B168-C70E016631B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADAC680D-2869-402A-B168-C70E016631B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADAC680D-2869-402A-B168-C70E016631B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F794B30-DA9D-44D4-A8A0-B3A2C68B9B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F794B30-DA9D-44D4-A8A0-B3A2C68B9B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F794B30-DA9D-44D4-A8A0-B3A2C68B9B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F794B30-DA9D-44D4-A8A0-B3A2C68B9B6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
